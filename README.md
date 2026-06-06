@@ -22,4 +22,4 @@ You can find my projects [here](https://dexrn.me/Projects).
   </a>
 </div>
 
-[![DexrnZacAttack](https://github-readme-stats.vercel.app/api?username=DexrnZacAttack&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![DexrnZacAttack](https://github-stats-extended.vercel.app/api?username=DexrnZacAttack&theme=transparent)](https://github.com/stats-organization/github-stats-extended)
